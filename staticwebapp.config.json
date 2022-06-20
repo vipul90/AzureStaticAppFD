@@ -9,6 +9,6 @@
     "requiredHeaders": {
       "X-Azure-FDID": "9290dec2-746d-40af-a25c-3e7fc06c93bd"
     },
-    "allowedForwardedHosts": ["FrontDoor-b8e7frafcxfah8bq.z01.azurefd.net"]
+    "allowedForwardedHosts": ["endpointname-eaexgha0hdhhh2h6.z01.azurefd.net"]
   }
 }
